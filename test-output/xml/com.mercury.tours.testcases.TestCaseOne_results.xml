@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Mercury Tours"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.342">
+  <properties />
+  
+  
+            <testcase name="roundTripTicket" time="4.342" classname="com.mercury.tours.testcases.TestCaseOne" />
+      
+</testsuite>
